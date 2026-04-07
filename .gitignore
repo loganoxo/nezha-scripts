@@ -1,2 +1,10 @@
-*~
 .DS_Store
+/.idea/
+/.history/
+test
+__pycache__
+*.iml
+node_modules/
+target/
+dist/
+*~
